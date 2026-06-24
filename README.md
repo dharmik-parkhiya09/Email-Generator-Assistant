@@ -1,5 +1,3 @@
-﻿# Email-Generator-Assistant
-# Email-Generator-Assistant
 
 # 📧 Email Generator Assistant
 
